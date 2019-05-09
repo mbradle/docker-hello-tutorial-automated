@@ -1,0 +1,1 @@
+# docker-hello-tutorial-automated
